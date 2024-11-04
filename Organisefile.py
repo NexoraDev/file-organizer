@@ -1,3 +1,5 @@
+#Script for Organizing and sorting files based on File Type only
+
 import os
 import shutil
 import hashlib
